@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://venkatchinmay.github.io/blog/'
 languageCode = 'en-us'
 title = 'Chinmay Venkat'
 theme = 'hugo-theme-m10c'
